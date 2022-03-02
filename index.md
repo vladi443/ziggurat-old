@@ -8,6 +8,22 @@ Welcome to Ziggurat Systems main page. Ziggurat Systems is a github repository m
 
 Wordle Dictionary is a C++ algorithm that scores words based on their match probability for the popular web game _Wordle_. Wordle Dictionary recieves an input in the form of a 5-letter word that it will use as basis of scoring the probability of a match of the other words. It then recieves an input in the form of 5 separate digits, which are 0 - no match, 1 - match/wrong location, and 2 - match/right location. Based on these two user inputs Wordle Dictionary would analyze each individual word and assign it a rating representing its match probability. After analyzing the user will be provided with the top 20 matching words, which can be picked and inputted again together with the coresponding indicating numbers.
 
+Wordle Dictionary outputs matching words together with their definition when available, which allows the user to select the most optimal word from the list provided.
+
+Wordle Dictionary also has a BETA option to compute the best starting word. This function calculates the times each letter is present in the list of words, and constructs words with the most common letters. This method allows for the starting word to have the highest probability of containing a matching letter.
+
+Wordle Dictionary will be registered under the GPL2 software license and its source-code will be available soon on github.
+
+Go to [Wordle Dictionary Github Repository](https://www.google.com)
+
+## About
+
+Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/vladi443/ziggurat/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+
+### Support or Contact
+
+Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
@@ -29,11 +45,3 @@ Syntax highlighted code block
 ```
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-## About
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/vladi443/ziggurat/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
