@@ -20,13 +20,15 @@ Wordle Dictionary will be registered under the GPL2 software license and its sou
 
 Go to [Wordle Dictionary Github Repository](https://www.google.com)
 
+Go to [Official Wordle Website](https://www.nytimes.com/games/wordle/index.html)
+
 ## About
 
 I am a high school computer science student interested in computer algorithms, computer security, and algorithm efficiency. I am taking computer science and cyber security clases together with high level math classes. All the projects available here are made using skills learned in high school, and are either school projects or individual projects. All the projects posted here will be licensed under the GPL2 software license.
 
-### Support or Contact
+All the projects are open-source and can be used or modified at no cost. If you want to support my work you can [buy me a tea](https://www.google.com) to warm me up.
 
-All the projects are open-source and can be used or modified at no cost. If you want to support my work you can [buy me a coffee](https://www.google.com) that will be consumed by me to work on more projects.
+## Formatting
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
 
