@@ -4,7 +4,7 @@ Welcome to Ziggurat Systems main page. Ziggurat Systems is a github repository m
 
 ## Projects
 
-###Wordle solving algorithm
+### Wordle solving algorithm
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
