@@ -6,6 +6,8 @@ Welcome to Ziggurat Systems main page. Ziggurat Systems is a github repository m
 
 ### Wordle solving algorithm
 
+Wordle Dictionary is a C++ algorithm that scores words based on their match probability for the popular web game _Wordle_. Wordle Dictionary uses user inputted 5-letter word to analyze, followed by a sequence of 5 numbers, 0 for no match, 1 for match/wrong location and 2 for match/right location. Wordle dictionary then uses that data to score all the different words avaiable and lists the top 20 most likely matchable words.
+
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
