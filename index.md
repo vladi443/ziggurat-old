@@ -32,7 +32,7 @@ Primes has a BETA option that computes the best starting prime number, which is 
 
 Primes is registered under the GNU GPLv3 software license and its source-code will be available soon on github.
 
-Go to [Primes Github Repository](https://github.com/vladi443/primes
+Go to [Primes Github Repository](https://github.com/vladi443/primes)
 
 Go to [Official Primel Website](https://converged.yt/primel)
 
