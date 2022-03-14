@@ -16,9 +16,9 @@ Wordle Dictionary also has a BETA option to compute the best starting word. This
 
 Wordle Dictionary provides a debug-mode that allows the user to track a certain word's score throughout the algorithm, allowing for any scoring bugs/misputs to be traced. Debug-mode can be enabled at the beginning of the program.
 
-Wordle Dictionary will be registered under the GNU GPLv3 software license and its source-code will be available soon on github.
+Wordle Dictionary is registered under the GNU GPLv3 software license and its source-code is avaiable on github.
 
-Go to [Wordle Dictionary Github Repository](https://www.google.com)
+Go to [Wordle Dictionary Github Repository](https://github.com/vladi443/dictionary/blob/main/README.md)
 
 Go to [Official Wordle Website](https://www.nytimes.com/games/wordle/index.html)
 
@@ -30,7 +30,7 @@ Similarly to Wordle Dictionary, Primes uses a 5-digit number to represent the pa
 
 Primes has a BETA option that computes the best starting prime number, which is rated based on the most used digits in the list of prime numbers. Primes also scores prime numbers based on the uniqueness of their digits, meaning 19237 would be rated slightly higher than 10007.
 
-Primes is registered under the GNU GPLv3 software license and its source-code will be available soon on github.
+Primes is registered under the GNU GPLv3 software license and its source-code is available on github.
 
 Go to [Primes Github Repository](https://github.com/vladi443/primes)
 
