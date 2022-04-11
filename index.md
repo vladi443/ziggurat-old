@@ -6,6 +6,8 @@ Welcome to the Ziggurat Systems Project main page. Ziggurat Systems is a github 
 
 ### Wordle Dictionary
 
+---
+
 Wordle Dictionary is a C++ algorithm that scores words based on their match probability for the popular web game _Wordle_. Wordle Dictionary recieves a 5-letter input word followed by a 5-digit input number that indicates if the specific charachter is present in the mystery word. After scoring each word Wordle Dictionary displayes the top 20 words that match the given pattern. The user can choose one of these words and input it again, followed by a new 5-digit number to represent the pattern of the newly entered word.
 
 Wordle Dictionary uses a 5-digit number to represent the pattern of the inputed word. 0 indicates that the charachter at the corresponding location in the word is not present, 1 indicates the charachter is present but in different location, and 2 indicates the charachter is present in that exact location. Wordle Dictionary stores the charachters not present in the mystery word to better score and sort words based on their matching probability.
@@ -24,6 +26,8 @@ Go to [Official Wordle Website](https://www.nytimes.com/games/wordle/index.html)
 
 ### Primes
 
+---
+
 Primes is a C++ algorithm that finds all prime numbers between 10,000 - 99, 999 and scores their match probability for the web game _Primel_. Primes recieves a 5-digit input prime number followed by a 5-digit input number that indicates wheter the specific digit is present in the mystery prime number. Primes would use that information to score the remaining prime numbers accordingly and present the newly updates scores. Primes would continue this proccess until the user indicates the prime number has been found.
 
 Similarly to Wordle Dictionary, Primes uses a 5-digit number to represent the pattern of the inputed prime number. Unlike Wordle Dictionary however, both input and output for Primes can be a single digit, without space separation between the individual charachters. Primes uses the same output scheme as Wordle Dictionary to represent the pattern of the inputted prime number, which is a 0 for the digit is not present in the mystery prime number, 1 for the digit is present in the mystery prime number but in a different location, and 2 to represent the digit is present at the corresponding location of the mystery prime number.
@@ -40,30 +44,4 @@ Go to [Official Primel Website](https://converged.yt/primel)
 
 I am a high school computer science student interested in computer algorithms, computer security, and algorithm efficiency. I am taking computer science and cyber security clases together with high level math classes. All the projects available here are made using skills learned in high school, and are either school projects or individual projects. All the projects posted here will be licensed under the GPL2 software license.
 
-All the projects are open-source and can be used or modified at no cost. If you want to support my work you can [buy me a tea](https://www.google.com) to warm me up.
-
-## Formatting
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+All the projects are open-source and can be used or modified at no cost. If you want to support my work you can [buy me a tea (coming soon)](https://www.google.com) to warm me up.
