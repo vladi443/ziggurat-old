@@ -24,7 +24,21 @@ Go to [Wordle Dictionary Github Repository](https://github.com/vladi443/dictiona
 
 Go to [Official Wordle Website](https://www.nytimes.com/games/wordle/index.html)
 
-### Primes
+### Sierpinski triangle
+
+---
+
+Sierpinski triangle is a geometric fractal based on equilateral triangles. The sequence begins with one equilateral triangle with custom size, and by dividing the sides of the triangle in half a pattern emerges which represents the Sierpinski triangle. If the pattern is continued forever, the triangle will contain an infinite amount of smaller equilateral triangles within it.
+
+The Triangles fractal C++ algorithm simulates what the Sierpinski triangle will appear like in n iretations. The algorithm uses the Chaos principle to simulate the appearance of the triangle rather than the normal removing triangles technique. The Chaos game states that if a point is placed halfway between two other points, one being a point chosen at random from withing the triangle, and the other chosen at random being from the original triangle, after n iretations the cluster of points will resemble the Sierpinski triangle.
+
+The Triangles fractal C++ algorithm follows the Chaos game principles by randomly selecting two points and creating a new point located in the middle of them. The algorithm repeats this process n-times, which is the amount of iretations indicated by the user at the beginning of the program. After cicling through all the iretations, the algorithm creates a simple grid and displays each point on it.
+
+Triangles fractal is registered under the GNU GPLv3 software license and its source-code is avaiable on github.
+
+Go to [Triangle fractal Github Repository]()
+
+Learn more about the [Sierpinski Triangle]()
 
 ---
 
@@ -44,4 +58,4 @@ Go to [Official Primel Website](https://converged.yt/primel)
 
 I am a high school computer science student interested in computer algorithms, computer security, and algorithm efficiency. I am taking computer science and cyber security clases together with high level math classes. All the projects available here are made using skills learned in high school, and are either school projects or individual projects. All the projects posted here will be licensed under the GPL2 software license.
 
-All the projects are open-source and can be used or modified at no cost. If you want to support my work you can [buy me a tea (coming soon)](https://www.google.com) to warm me up.
+All the projects are open-source and can be used or modified at no cost. If you want to support my work you can [buy me a tea (coming soon)](https://www.google.com) to warm me up, or share this site and its project with others.
