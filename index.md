@@ -40,6 +40,8 @@ Go to [Triangle fractal Github Repository]()
 
 Learn more about the [Sierpinski Triangle]()
 
+### Primes
+
 ---
 
 Primes is a C++ algorithm that finds all prime numbers between 10,000 - 99, 999 and scores their match probability for the web game _Primel_. Primes recieves a 5-digit input prime number followed by a 5-digit input number that indicates wheter the specific digit is present in the mystery prime number. Primes would use that information to score the remaining prime numbers accordingly and present the newly updates scores. Primes would continue this proccess until the user indicates the prime number has been found.
