@@ -34,7 +34,59 @@ The Triangles fractal C++ algorithm simulates what the Sierpinski triangle will 
 
 The Triangles fractal C++ algorithm follows the Chaos game principles by randomly selecting two points and creating a new point located in the middle of them. The algorithm repeats this process n-times, which is the amount of iretations indicated by the user at the beginning of the program. After cicling through all the iretations, the algorithm creates a simple grid and displays each point on it.
 
-Triangles fractal is registered under the GNU GPLv3 software license and its source-code is avaiable on github.
+```
+[progress] ......... done
+<123456789|123456789|123456789|123456789|123456789|123456789|123456789|123456789|123456789|123456789>
+|                                               OOOO                                                |
+|                                              OOOOOO                                               |
+|                                             OOOOOOOO                                              |
+|                                            OOOO  OOOO                                             |
+|                                           OOOOOOOOOOOO                                            |
+|                                          OOOOOOOOOOOOOO                                           |
+|                                        OOOOO        OOOOO                                         |
+|                                       OOOOOOOO    OOOOOOOO                                        |
+|                                      OOOO  OOOO  OOOO  OOOO                                       |
+|                                     OOOOOOOOOOOOOOOOOOOOOOOO                                      |
+|                                    OOOOOOOOOOOOOOOOOOOOOOOOOO                                     |
+|                                   OOOO                    OOOO                                    |
+|                                 OOOOOOO                  OOOOOOO                                  |
+|                                OOOOOOOOO                OOOOOOOOO                                 |
+|                               OOOOO OOOOO              OOOOO OOOOO                                |
+|                              OOOOOOOOOOOOOO          OOOOOOOOOOOOOO                               |
+|                             OOOO        OOOO        OOOO        OOOO                              |
+|                            OOOOOO      OOOOOO      OOOOOO      OOOOOO                             |
+|                          OOOOOOOOO    OOOOOOOO    OOOOOOOO    OOOOOOOOO                           |
+|                         OOOOO OOOOO OOOOO  OOOO  OOOO  OOOOO OOOOO OOOOO                          |
+|                        OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO                         |
+|                       OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO                        |
+|                      OOOOO                                            OOOOO                       |
+|                     OOOOOOO                                          OOOOOOO                      |
+|                   OOOOO OOOOO                                      OOOOO OOOOO                    |
+|                  OOOOOOOOOOOOO                                    OOOOOOOOOOOOO                   |
+|                 OOOOOOOOOOOOOOO                                  OOOOOOOOOOOOOOO                  |
+|                OOOOO       OOOOO                                OOOOO       OOOOO                 |
+|               OOOOOOO     OOOOOOO                              OOOOOOO     OOOOOOO                |
+|              OOO   OOO   OOO   OOO                            OOO   OOO   OOO   OOO               |
+|            OOOOOOOOOOOO OOOOOOOOOOOO                        OOOOOOOOOOOO OOOOOOOOOOOO             |
+|           OOOOOOOOOOOOOOOOOOOOOOOOOOO                      OOOOOOOOOOOOOOOOOOOOOOOOOOO            |
+|          OOOO                     OOOO                    OOOO                     OOOO           |
+|         OOOOOOO                 OOOOOOO                  OOOOOOO                 OOOOOOO          |
+|        OOOOOOOOO               OOOOOOOOO                OOOOOOOOO               OOOOOOOOO         |
+|       OOOOO OOOOO             OOOOO OOOOO              OOOOO OOOOO             OOOOO OOOOO        |
+|     OOOOOOOOOOOOOO           OOOOOOOOOOOOOO          OOOOOOOOOOOOOO           OOOOOOOOOOOOOO      |
+|    OOOO        OOOO         OOOO        OOOO        OOOO        OOOO         OOOO        OOOO     |
+|   OOOOOO      OOOOOO       OOOOOO      OOOOOO      OOOOOO      OOOOOO       OOOOOO      OOOOOO    |
+|  OOOOOOOO    OOOOOOOOO   OOOOOOOOO    OOOOOOOO    OOOOOOOO    OOOOOOOOO   OOOOOOOOO    OOOOOOOO   |
+| OOOO  OOOOO OOOOO OOOOO OOOOO OOOOO OOOOO  OOOO  OOOO  OOOOO OOOOO OOOOO OOOOO OOOOO OOOOO  OOOO  |
+|OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO |
+|OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO|
+
+displaying sierpinski triangle after 10000000 future iretations
+```
+
+Sample console output from Triangle fractal
+
+Triangle fractal is registered under the GNU GPLv3 software license and its source-code is avaiable on github.
 
 Go to [Triangle fractal Github Repository]()
 
