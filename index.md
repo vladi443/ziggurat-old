@@ -34,7 +34,7 @@ Triangle fractal C++ algorithm simulates what the Sierpinski triangle will appea
 
 Triangle fractal C++ algorithm follows the Chaos game principles by randomly selecting two points and creating a new point located in the middle of them. The algorithm repeats this process n-times, which is the amount of iretations indicated by the user at the beginning of the program. After cicling through all the iretations, the algorithm creates a simple grid and displays each point on it.
 
-![Sample Output](https://github.com/vladi443/ziggurat/blob/gh-pages/images/triangle-fractal-sample-output.png)
+![Sample Output](images/triangle-fractal-sample-output.png)
 
 Triangle fractal is registered under the GNU GPLv3 software license and its source-code is avaiable on github.
 
