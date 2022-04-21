@@ -60,6 +60,8 @@ Go to [Official Primel Website](https://converged.yt/primel)
 
 ## About
 
-I am a high school computer science student interested in computer algorithms, computer security, and algorithm efficiency. I am taking computer science and cyber security clases together with high level math classes. All the projects available here are made using skills learned in high school, and are either school projects or individual projects. All the projects posted here will be licensed under the GPL2 software license.
+I am a high school computer science student interested in computer algorithms, computer security, and algorithm efficiency. I am taking computer science, cyber security and higher level math classes. All projects available here are made with skills learned in school and outside research. The projects posted here are registered under the GNU GPLv3 software license and their source codes are linked under their description.
 
-All the projects are open-source and can be used or modified at no cost. If you want to support my work you can [buy me a tea (coming soon)](https://www.google.com) to warm me up, or share this site and its project with others.
+Suggestions are always open and welcome and can be added in each projects' individual github repository. For more information regarding contributing or suggesting new files refer to the README files located in the projects' repositories.
+
+All the projects are open-source and can be used or modified at no cost. If you want to support my work you can [buy me a tea]() **(coming soon!)** to warm me up, or share this site and the projects with others.
